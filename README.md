@@ -95,6 +95,4 @@ Follow the steps below to run this project on your local machine:
 
 3. **Open in Browser**
 
-Follow the steps below to run this project on your local machine:
-
 Visit http://localhost:5173 to view the application in your browser.
