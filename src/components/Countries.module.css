@@ -1,0 +1,19 @@
+.cardContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  border: 1px solid grey;
+  border-radius: 8px;
+  width: 200px;
+  padding: 10px;
+}
+.textCenter {
+  text-align: center;
+}
+.countriesWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
