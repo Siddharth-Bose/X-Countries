@@ -73,3 +73,26 @@ JSX that dynamically renders cards for each country using a flexbox layout.
 This project uses **CSS Modules** for styling, ensuring:
 - **Scoped styles** (styles don’t leak into other components).
 - Easy-to-maintain, modular CSS.
+
+## 🖥️ Running Locally
+
+Follow the steps below to run this project on your local machine:
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/your-username/countries-flags-viewer.git
+   cd countries-flags-viewer
+
+
+2. **Install Dependencies**
+
+   ```bash
+   npm install
+   npm run dev
+
+3. **Open in Browser**
+
+Follow the steps below to run this project on your local machine:
+
+Visit http://localhost:5173 to view the application in your browser.
