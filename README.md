@@ -20,6 +20,8 @@ A simple ReactJS application that displays a list of countries with their flags 
 
 > A scrollable interface with country flag and name cards. More flags become visible on scroll. *(Image not included in this README but should match the UI you provided.)*
 
+![Country Flags UI](public/screenshot.png)
+
 ## 🔗 API Reference
 
 **Endpoint:**
