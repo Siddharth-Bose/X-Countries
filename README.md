@@ -34,12 +34,13 @@ Returns an array of country objects. Each object includes:
 - `flag`: URL of the country's flag
 
 ## 📁 Project Structure
-
+```
 src/
 ├── components/
 │ ├── Countries.js # Main component to fetch and display countries
 │ └── Countries.module.css # Styles for the Countries component
 └── App.js # Imports and renders the Countries component
+```
 
 ## 🧩 Component Breakdown
 
